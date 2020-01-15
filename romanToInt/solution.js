@@ -18,7 +18,6 @@ var romanToInt = function(s) {
                 }
                 switch(s[i+1]){
                     case 'M':
-                        num -= 100;break;
                     case 'D':
                         num -= 100;break;
                     default: num += 100;break;
@@ -33,7 +32,6 @@ var romanToInt = function(s) {
                 }
                 switch (s[i+1]) {
                     case 'C':
-                        num -= 10;break;
                     case 'L':
                         num -= 10;break;
                     default: num += 10;break;
@@ -44,7 +42,6 @@ var romanToInt = function(s) {
             case 'I':
                 switch(s[i+1]) {
                     case 'X':
-                        num -= 1;break;
                     case 'V':
                         num -= 1;break;
                     case 'I':
