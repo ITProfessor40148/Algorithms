@@ -1,5 +1,10 @@
 # Algorithms
 
+## 2020.1.19
+   * RemoveElement (easy)
+   * strStr (easy)
+   * searchInsertion (easy)
+
 ## 2020.1.17
    * RemoveDuplicatefromSortedArray (easy)
    * MergeTwoSortedList (easy)
