@@ -1,5 +1,9 @@
 # Algorithms
 
+## 2020.1.20
+   * countAndSay (easy)
+   * lengthOfLongestSubstring (medium)
+
 ## 2020.1.19
    * RemoveElement (easy)
    * strStr (easy)
