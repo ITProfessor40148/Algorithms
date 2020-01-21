@@ -1,5 +1,9 @@
 # Algorithms
 
+## 2020.1.21
+   * plusOne (easy)
+   * lengthOfLastWord (easy)
+
 ## 2020.1.20
    * countAndSay (easy)
    * lengthOfLongestSubstring (medium)
