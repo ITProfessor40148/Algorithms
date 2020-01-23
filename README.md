@@ -1,5 +1,13 @@
 # Algorithms
 
+## 2020.1.23
+   * sqrt (easy)
+   * climbingStairs (easy)
+
+## 2020.1.22
+   * addBinary (easy)
+   * addTwoNums (medium)
+
 ## 2020.1.21
    * plusOne (easy)
    * lengthOfLastWord (easy)
