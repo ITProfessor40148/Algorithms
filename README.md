@@ -1,5 +1,17 @@
 # Algorithms
 
+## 2020.1.27
+   * symmeticTree (easy)
+   * maxDepth (easy)
+
+## 2020.1.26
+   * sameTree (easy)
+   * climbingStairs (easy)
+
+## 2020.1.24
+   * atoi (easy)
+   * mergeTwoArray (easy)
+
 ## 2020.1.23
    * sqrt (easy)
    * climbingStairs (easy)
