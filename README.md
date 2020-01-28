@@ -1,5 +1,9 @@
 # Algorithms
 
+## 2020.1.28
+   * sortedArrayToBST (easy)
+   * binaryTreeLevelOrderTraversal (easy)
+
 ## 2020.1.27
    * symmeticTree (easy)
    * maxDepth (easy)
