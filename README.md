@@ -1,5 +1,9 @@
 # Algorithms
 
+## 2020.1.29
+   * minDepth (easy)
+   * balancedBinaryTree (easy)
+
 ## 2020.1.28
    * sortedArrayToBST (easy)
    * binaryTreeLevelOrderTraversal (easy)
