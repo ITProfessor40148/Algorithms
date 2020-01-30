@@ -1,5 +1,9 @@
 # Algorithms
 
+## 2020.1.30
+   * pathSum (easy)
+   * pascalTriangle (easy)
+
 ## 2020.1.29
    * minDepth (easy)
    * balancedBinaryTree (easy)
