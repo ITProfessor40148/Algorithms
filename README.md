@@ -1,5 +1,9 @@
 # Algorithms
 
+## 2020.1.31
+   * bestSell (easy)
+   * pascalTriangle2 (easy)
+
 ## 2020.1.30
    * pathSum (easy)
    * pascalTriangle (easy)
