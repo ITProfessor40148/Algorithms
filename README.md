@@ -1,5 +1,9 @@
 # Algorithms
 
+## 2020.2.3
+   * bestSell2 (easy)
+   * validPalindrome(easy)
+
 ## 2020.1.31
    * bestSell (easy)
    * pascalTriangle2 (easy)
