@@ -1,5 +1,13 @@
 # Algorithms
 
+## 2020.2.9
+   * intersectionOfTwoLinkedList (easy)
+   * minStack(easy)
+
+## 2020.2.7
+   * linkedList (easy)
+   * sigleNumber(easy)
+
 ## 2020.2.3
    * bestSell2 (easy)
    * validPalindrome(easy)
